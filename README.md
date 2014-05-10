@@ -3,7 +3,7 @@ UralTheme
 
 A Free Wordpress Theme
 
-To see a live example visit: http://alkinkasap.net
+To see a live demo visit: http://alkinkasap.net
 
 License and Docs
 
